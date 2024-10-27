@@ -1,0 +1,5 @@
+while
+    read line
+do
+    echo sline | sed 's/flag/banner/h'
+done
